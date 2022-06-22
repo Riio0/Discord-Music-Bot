@@ -1,0 +1,10 @@
+{
+    "token": "",
+    "prefix": "",
+    "cookie": "COOKIE_YOUTUBE",
+    "spotifyapi": {
+        "enabled": true,
+        "clientSecret": "",
+        "clientId": ""
+  }
+}
